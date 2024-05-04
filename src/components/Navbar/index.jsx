@@ -1,7 +1,7 @@
 import React from 'react'
 import { DiCssdeck } from 'react-icons/di';
 import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton,
-  ButtonContainer, MobileIcon, MobileMenu, MobileNavLogo, MobileMenuLink } from './NavbarStyledComponent'
+  ButtonContainer, MobileIcon, MobileMenu,  MobileMenuLink } from './NavbarStyledComponent'
 import { useTheme } from 'styled-components';
 import { FaBars } from 'react-icons/fa';
 import {Bio} from '../../data/constants'
